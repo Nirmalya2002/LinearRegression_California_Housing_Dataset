@@ -1,7 +1,7 @@
-# linear regression model on the California
+# Linear Regression model on the California
 Housing dataset
 
-Project Overview
+# Project Overview
 This project demonstrates an end-to-end Machine Learning workflow using Linear Regression to predict median house values based on socio-economic and geographical features from the California Housing dataset.
 The project covers data loading, exploratory data analysis (EDA), model training, evaluation.
 
